@@ -20,11 +20,6 @@ app.listen(port, () => {
     console.log(`Example  ${port} `);
 })
 
-function hello(){
-    return 0;
-}
-
-
 
 //require : node module me jao jo pakage ha usko le aao
 

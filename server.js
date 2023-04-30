@@ -20,7 +20,10 @@ app.listen(port, () => {
     console.log(`Example  ${port} `);
 })
 
-
+const hello= ()=>
+{
+console.log("  Hello ");
+}
 //require : node module me jao jo pakage ha usko le aao
 
 
